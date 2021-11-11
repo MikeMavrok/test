@@ -7,6 +7,7 @@ public class HelloWorld {
        	int a = 5;
         a = 0 - a;
         System.out.print(a);
+	System.out.println("b");
         System.out.println(heartwise);
 	}
 }
